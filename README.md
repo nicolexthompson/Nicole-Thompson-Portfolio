@@ -54,7 +54,7 @@ Analyzed **6,000+ customer records** to identify churn patterns, high-risk custo
 - Developed an Excel dashboard using PivotCharts and KPIs
 - Identified customer segments with **40%+ churn** to inform retention priorities
 
-**[View Project →](#)**
+**[View Project →](https://github.com/nicolexthompson/telecom-churn-analysis/tree/main)**
 
 ---
 
