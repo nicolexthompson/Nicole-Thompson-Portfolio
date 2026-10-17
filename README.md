@@ -69,21 +69,6 @@ Analyzed **6,000+ customer records** to identify churn patterns, high-risk custo
 
 ---
 
-### 📈 Fitness Centre Member Engagement Analysis
-**Excel · Power BI · Data Analysis**
-
-Analyzed member engagement and customer data to identify trends and opportunities for improved retention and customer experience.
-
-**Key Highlights**
-- Cleaned and analyzed membership and engagement data
-- Identified patterns across member segments
-- Developed dashboards and data visualizations
-- Translated quantitative findings into actionable business recommendations
-
-**[View Project →](#)**
-
----
-
 ## Experience
 
 ### Tabi Well-Being
