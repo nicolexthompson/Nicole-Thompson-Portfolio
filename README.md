@@ -87,5 +87,5 @@ Analyzed **6,000+ customer records** to identify churn patterns, high-risk custo
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/)  
-**Email:** your.email@email.com
+**LinkedIn:** [linkedin.com/in/nicole-x-thompson]
+**Email:** nicolex.thompson@mail.utoronto.ca
