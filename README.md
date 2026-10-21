@@ -1,6 +1,6 @@
 # Nicole Thompson | Data Analytics Portfolio
 
-Welcome! I'm **Nicole Thompson**, a Bachelor of Information student at the **University of Toronto** specializing in **Product Strategy, Data & UX**.
+Welcome! I'm **Nicole Thompson**, a Bachelor of Information student at the **University of Toronto** specializing in **Product Strategy, Data & Analytics**.
 
 This portfolio showcases projects where I use data to identify patterns, answer business questions, and communicate actionable insights.
 
