@@ -100,5 +100,5 @@ Analyzed Toronto Public Library branch visitation data to investigate the relati
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/nicole-x-thompson]
+**LinkedIn:** (https://linkedin.com/in/nicole-x-thompson)
 **Email:** nicolex.thompson@mail.utoronto.ca
