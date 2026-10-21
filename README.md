@@ -85,7 +85,7 @@ Analyzed Toronto Public Library branch visitation data to investigate the relati
 ## Experience
 
 ### Tabi Well-Being
-**UX Research & Product Management Intern**
+**Product Analyst Intern**
 
 - Conduct mixed-methods research and analyze qualitative and quantitative user feedback
 - Analyze survey data using Google Sheets, PivotTables, and data visualizations
