@@ -67,6 +67,19 @@ Analyzed **6,000+ customer records** to identify churn patterns, high-risk custo
 
 **[View Project →](https://github.com/nicolexthompson/telecom-churn-analysis/tree/main)**
 
+### 📚Toronto Public Library Visitation Analysis
+**R · Tidyverse · ggplot2 · Robust Linear Regression · Statistical Inference**
+
+Analyzed Toronto Public Library branch visitation data to investigate the relationship between neighbourhood immigrant population share and library usage, controlling for socioeconomic and demographic factors.
+
+**Key Highlights**
+- Cleaned, transformed, and analyzed neighbourhood-level data using R and Tidyverse
+- Conducted exploratory data analysis and visualized demographic patterns using ggplot2
+- Applied robust linear regression to examine associations while controlling for confounding variables
+- Evaluated statistical significance and interpreted regression coefficients to assess relationships between neighbourhood characteristics and library visitation
+
+[View Project →](https://github.com/nicolexthompson/Predicting-Toronto-Public-Library-Visitations-Socioeconomic-and-Immigrant-Factors)
+
 ---
 
 ## Experience
